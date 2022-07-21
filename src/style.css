@@ -84,3 +84,10 @@ a{
 .weather-forecast-temperature-min{
     opacity: 0.5; 
 }
+.degreesign{
+    color:#202124;
+    position:relative;
+    bottom: 30px;
+    font-size: 16px;
+    line-height: 24px;
+}
