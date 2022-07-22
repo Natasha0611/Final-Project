@@ -38,15 +38,15 @@ li:first-letter{
 }
 .weather-temperature img {
     margin-right: 5px;
-    height: 64px;
-    width: 64px;
+    height: 58px;
+    width: 58px;
 }
 .float-left{
     float: left;
 }
 .weather-temperature strong{
     color: rgb(33, 33, 33);
-    font-size: 64px;
+    font-size: 48px;
     line-height: 1;
     font-weight: 400;
 }
@@ -87,7 +87,7 @@ a{
 .degreesign{
     color:#202124;
     position:relative;
-    bottom: 30px;
+    bottom: 20px;
     font-size: 16px;
     line-height: 24px;
 }
